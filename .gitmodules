@@ -1,0 +1,6 @@
+[submodule "battery-widget"]
+	path = battery-widget
+	url = https://github.com/deficient/battery-widget
+[submodule "volume-control"]
+	path = volume-control
+	url = https://github.com/deficient/volume-control
